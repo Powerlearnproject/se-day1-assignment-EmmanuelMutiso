@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 Software enginnering is the approach to the design, development, testing, and maintenance of software applications and it involves applying engineering principles to software creation, ensuring that it is reliable, efficient, and meets user requirements.
-IMPORTANCE OF SOFTWARE ENGINEERING IN THE TECHNOLOGY INDUSTRY
+IMPORTANCE OF SOFTWARE ENGINEERING IN THE TECHNOLOGY INDUSTRY.
 Efficiency- it streamlines processes, increasing efficiency and productivity.
 Scalability-it also designs scalable designs that can grow with demand.
 Reliability- it ensures the software is robust and reliable.
@@ -31,27 +31,27 @@ List and briefly explain the phases of the Software Development Life Cycle.
 7. Maintenance- Software developers provide support and updates to the software.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-WATERFALL METHODOLOGY
+WATERFALL METHODOLOGY.
 -Linear and sequential approach.
 -Each phase must be completed before moving to the next.
 -Suitable for projects with well-defined requirements like construction projects.
-AGILE METHODOLOGY
+AGILE METHODOLOGY.
 -Iterative and flexible approach.
 -Frequent reassessment and adaptation.
 -Ideal for projects with evolving requirements like software development.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-SOFTWARE DEVELOPER ROLES AND RESPONSIBILITIES
+SOFTWARE DEVELOPER ROLES AND RESPONSIBILITIES.
 -The developers engage in writing and maintaining code.
 -They collaborate with fellow team members to design and implement features.
 -Writing technical documentation for the codebase and new features.
 -Reviewing code written by peers to ensure adherence to best practices and standards.
-QUALITY ASSURANCE ENGINEER ROLES AND RESPONSIBILITIES
+QUALITY ASSURANCE ENGINEER ROLES AND RESPONSIBILITIES.
 -Designing test cases and conducting testing.
 -Ensuring the software meets quality standards.
 -Conducting regression tests to ensure new changes do not introduce new issues.
 -Creating detailed test cases and test plans to ensure comprehensive testing coverage.
-PROJECT MANAGER ROLES AND RESPONSIBILITIES
+PROJECT MANAGER ROLES AND RESPONSIBILITIES.
 -Planning, executing, and overseeing the project.
 -Managing timelines, resources, and communication among team members.
 -Acting as the primary contact for stakeholders, providing regular updates on project progress.
@@ -63,6 +63,7 @@ INTEGRATED DEVELOPMENT ENVIRONMENTS (IDEs)
 -Providing tools for code refactoring which help to maintain clean and efficient code.
 -Allow customization with plugins and extensions to enhance functionality.
 -Example: Visual Studio, IntelliJ IDEA , Eclipse.
+
 VERSION CONTROL SYSTEMS (VCS)
 -Track changes to the code, facilitating collaboration and version management.
 -Enable multiple developers to work on the same codebase simultaneously without conflicts.
